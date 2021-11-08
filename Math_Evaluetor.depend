@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1622891177 source:e:\sy_sem_2\sdp\math_evaluator\math_evaluetor\evaluate.cpp
+	"evaluate.h"
+
+1622891522 e:\sy_sem_2\sdp\math_evaluator\math_evaluetor\evaluate.h
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cctype>
+	<cmath>
+	"error.h"
+	"Fun.h"
+	"variable.h"
+
+1622878923 e:\sy_sem_2\sdp\math_evaluator\math_evaluetor\error.h
+	<cstdio>
+	<cstdarg>
+	<cstring>
+
+1622877426 e:\sy_sem_2\sdp\math_evaluator\math_evaluetor\fun.h
+
+1622878923 e:\sy_sem_2\sdp\math_evaluator\math_evaluetor\variable.h
+	<cstdio>
+	<cctype>
+	<cstring>
+	<vector>
+
+1622888106 source:e:\sy_sem_2\sdp\math_evaluator\math_evaluetor\main.cpp
+	<cstdlib>
+	<cstdio>
+	<iostream>
+	"evaluate.h"
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1622891522 source:e:\sy_sem_2\sdp\math_evaluator\math_evaluetor\error.cpp
+	"error.h"
+
+1622784840 source:e:\sy_sem_2\sdp\math_evaluator\math_evaluetor\fun.cpp
+	"error.h"
+
+1622784869 source:e:\sy_sem_2\sdp\math_evaluator\math_evaluetor\variable.cpp
+	"variable.h"
+
